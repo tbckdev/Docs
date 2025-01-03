@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '38AI Docs',
+  title: 'Docusaurus',
   tagline: 'Tech with 38AI',
   favicon: 'img/favicon.ico',
 
