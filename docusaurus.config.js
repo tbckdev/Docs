@@ -16,7 +16,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://tbckdev.github.io', // Your GitHub Pages URL
-  baseUrl: '/docs/', // The repository name, preceded by a slash
+  baseUrl: '/Docs/', // The repository name, preceded by a slash
   organizationName: 'tbckdev', // Your GitHub username
   projectName: 'Docs', // Your repository name
   deploymentBranch: "gh-pages", // Deployment branch for GitHub Pages
@@ -134,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tech with 38ai, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
