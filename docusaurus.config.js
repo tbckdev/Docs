@@ -16,7 +16,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://tbckdev.github.io', // Your GitHub Pages URL
-  baseUrl: '/Docs/', // The repository name, preceded by a slash
+  baseUrl: '/docs/', // The repository name, preceded by a slash
   organizationName: 'tbckdev', // Your GitHub username
   projectName: 'Docs', // Your repository name
   deploymentBranch: "gh-pages", // Deployment branch for GitHub Pages
